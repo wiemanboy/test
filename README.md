@@ -1,3 +1,4 @@
+### Mermaid Class Diagram
 ```mermaid
 %%{init: {
     'theme': 'base', 
